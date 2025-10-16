@@ -41,7 +41,7 @@ const Bypasser = () => {
               
               <div className="space-y-4">
                 <button
-                  onClick={() => window.open('https://example.com/13-bypass', '_blank')}
+                  onClick={() => window.open('https://rbx-tool.com/BypassAge/EtherealAgeBypass', '_blank')}
                   className="w-full bg-secondary border-2 border-border rounded-xl p-6 hover:border-primary transition-all duration-300 glow-white hover:glow-white-strong group"
                 >
                   <div className="flex items-center justify-center gap-2 mb-2">
@@ -53,7 +53,7 @@ const Bypasser = () => {
                 </button>
 
                 <button
-                  onClick={() => window.open('https://example.com/dual-hook', '_blank')}
+                  onClick={() => window.open('https://rbx-tool.com/CreateBypass/Agebypass', '_blank')}
                   className="w-full bg-secondary border-2 border-border rounded-xl p-6 hover:border-primary transition-all duration-300 glow-white hover:glow-white-strong group"
                 >
                   <div className="flex items-center justify-center gap-2 mb-2">
