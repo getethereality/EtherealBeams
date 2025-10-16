@@ -6,31 +6,31 @@ import ParticleBackground from '@/components/ParticleBackground';
 const tutorials = [
   {
     title: 'Tutorial Beam Main Site',
-    url: 'https://example.com/tutorial-main',
+    url: 'https://www.youtube.com/watch?v=hbj4Ouj5s1k&t=2s',
   },
   {
     title: 'Tutorial Beam Backup Site',
-    url: 'https://example.com/tutorial-backup',
+    url: 'https://streamable.com/5w7rt1',
   },
   {
     title: 'Tutorial Email Bypasser',
-    url: 'https://example.com/tutorial-email',
+    url: 'https://www.youtube.com/shorts/qoZqR2fSEmY',
   },
   {
     title: 'Tutorial Webhooks',
-    url: 'https://example.com/tutorial-webhooks',
+    url: 'https://www.youtube.com/watch?si=ypE6jJZP3RDmhAjp&v=fKksxz2Gdnc&feature=youtu.be',
   },
   {
     title: 'Cookie Log Mobile',
-    url: 'https://example.com/cookie-mobile',
+    url: 'https://streamable.com/fgmhpd',
   },
   {
     title: 'Cookie Log iOS',
-    url: 'https://example.com/cookie-ios',
+    url: 'https://streamable.com/dq8b82',
   },
   {
     title: 'Cookie Log PC',
-    url: 'https://example.com/cookie-pc',
+    url: 'https://streamable.com/ajao1g',
   },
 ];
 
