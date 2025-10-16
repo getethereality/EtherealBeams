@@ -21,7 +21,7 @@ const Home = () => {
             variant="outline"
             size="lg"
             className="glow-white hover:glow-white-strong transition-all duration-300 border-2"
-            onClick={() => window.open('https://discord.gg/example', '_blank')}
+            onClick={() => window.open('https://discord.gg/dXAYc3vd9f', '_blank')}
           >
             <span className="mr-2">💬</span>
             Join Discord
